@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Beka Chaduneli</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bekachaduneli" alt="bekachaduneli" /></a> </p>
-
 - 🔭 I’m currently working on [Tetrobyte](https://www.tetrobyte.com/)
 
-- 👨‍💻 All of my projects are available at [https://portfolio-six-ecru-43.vercel.app/](https://portfolio-six-ecru-43.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-jjcd28433-bekachadunelis-projects.vercel.app/)
 
 - 📫 How to reach me **beka.chaduneli.1@btu.edu.ge**
 
