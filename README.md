@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Tetrobyte](https://www.tetrobyte.com/)
 
-- 👨‍💻 All of my projects are available at [portfolio](https://portfolio-jjcd28433-bekachadunelis-projects.vercel.app/)
-
 - 📫 How to reach me **beka.chaduneli.1@btu.edu.ge**
 
 <h3 align="left">Connect with me:</h3>
