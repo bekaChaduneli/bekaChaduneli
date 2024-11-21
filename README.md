@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Beka Chaduneli</h1>
 <h3 align="center">Software Engineer from Georgia</h3>
 
+Hello, I’m Beka, a results-driven Fullstack Developer from Georgia, Tbilisi with over a year of working experience in Next.js, Node.js, React, TypeScript, Express, Prisma, and MongoDB. I am passionate about steadily improving my skills and exploring new technologies to enhance my expertise. I strive to see the bigger picture in every project, which drives me to broaden my perspective and deepen my understanding of the development process. My enthusiasm for growth and innovation motivates me to work on various side projects alongside my main work, enabling me to make consistent progress in my career.
+
 - 🔭 I’m currently working on [Tetrobyte](https://www.tetrobyte.com/)
 
 - 📫 How to reach me **beka.chaduneli.1@btu.edu.ge**
