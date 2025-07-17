@@ -1,15 +1,30 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beka Chaduneli
-======================================================================================================================================
 
-Fullstack Develper
-------------------
 
-Hello, I’m Beka, a results-driven Fullstack Developer from Georgia, Tbilisi with over a year of working experience in Next.js, Node.js, React, TypeScript, Express, Prisma, and MongoDB. I am passionate about steadily improving my skills and exploring new technologies to enhance my expertise. I strive to see the bigger picture in every project, which drives me to broaden my perspective and deepen my understanding of the development process. My enthusiasm for growth and innovation motivates me to work on various side projects alongside my main work, enabling me to make consistent progress in my career.
+# Hello, I’m Beka  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-*   🌍  I'm based in Tbilisi, Georgia
-*   ✉️  You can contact me at [beka.chaduneli.1@btu.edu.ge](mailto:beka.chaduneli.1@btu.edu.ge)
-*   🧠  I'm learning AWS
-*   🤝  I'm open to collaborating on Projects
+I’m a **Full-Stack Developer** from Georgia, Tbilisi, with over 2 years of hands-on experience working with tools like **React**, **Next.js**, **Node.js**, **TypeScript**, **Express**, **Prisma**, and others.
+
+I’ve contributed to a range of projects — from **informational websites** to **role-based academic platforms** and **e-commerce systems** — handling both frontend and backend development. These experiences helped me understand how to translate business requirements into reliable technical solutions.
+
+I focus on writing **clean, consistent, and maintainable code** and designing systems that are **easy to scale and extend**. I pay attention to how features are used and how data flows through applications to ensure the development stays aligned with real-world needs.
+
+I’m always working to improve, with a long-term goal of becoming more **technology-agnostic** and open to diverse development approaches. I regularly explore new tools, contribute to side projects, and study software architecture.
+
+A book that strongly influenced my development mindset is _[**“Refactoring”**](https://martinfowler.com/books/refactoring.html) **by Martin Fowler and Kent Beck**_, which helped shape how I think about improving and maintaining codebases.
+
+---
+
+## Outside of Development
+
+- 🧠 I’m fascinated by **economics**, especially the **Austrian School** (Hayek, Mises, and others), and enjoy exploring its ideas.  
+- 🌍 I’m also learning languages: I speak **Georgian (native)**, **English (B2)**, and I am currently learning **Spanish (A1)**.  
+- 👃 I enjoy exploring **niche fragrances**, with **Nasomatto** being my favorite brand.  
+- ⚽ I unwind by watching and playing **sports**, especially football, and often dive into **podcasts, movies**, and **TV series**.
+
+---
+
+Most importantly, I dedicate time to expanding my knowledge in software development to become a more **versatile** and **well-rounded engineer**, capable of building solutions across a wide range of technologies and domains.
+
 
 ### Skills 
 <p align="left">
